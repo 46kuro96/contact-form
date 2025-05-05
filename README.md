@@ -1,4 +1,4 @@
-![contact-form-test2](https://github.com/user-attachments/assets/e075499c-d556-4d8e-9fbd-8c95f783a564)お問合せフォーム
+お問合せフォーム
 
 環境構築
 Dockderビルド
